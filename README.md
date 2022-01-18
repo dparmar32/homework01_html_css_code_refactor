@@ -4,7 +4,7 @@
   - [Installation](#installation)
   - [Local Tests](#local-tests)
   - [Deployment](#deployment)
-  - [Project Visuals](#visuals)
+  - [Project Visuals](#project-visuals)
   - [References](#references)
 
 ## HTML, CSS, and Git: 
@@ -32,6 +32,7 @@ Two options are provided the first one is link and second one thats click me tha
 
 ## Project Visuals
 ![project visuals](./assets/images/01-html-css-git-homework.png)
+
 ## References
 [Create a README](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3)
 
